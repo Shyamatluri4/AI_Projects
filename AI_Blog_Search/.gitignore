@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+ENV/
+.env
+.env.*
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Qdrant
+qdrant_db/
+
+# Other
+*.sqlite3
+*.db
+
+# Package management
+*.egg-info/
+dist/
+build/
+
+# Test outputs
+htmlcov/
+coverage.xml
+
+# Misc
+*.bak
+*.swp
+*.swo
+
+# Node
+node_modules/
