@@ -1,6 +1,6 @@
-# AI Blog Search
+# 🔍 AI Blog Search
 
-## Overview
+## 📌 Overview
 
 AI Blog Search is an Agentic RAG application designed to enhance information retrieval from AI-related blog posts. It leverages LangChain, LangGraph, and Google's Gemini model to fetch, process, and analyze blog content, providing users with accurate and contextually relevant answers.
 
@@ -13,7 +13,7 @@ AI Blog Search is an Agentic RAG application designed to enhance information ret
 - Streamlit UI for user-friendly interaction
 - Graph-Based Workflow for efficient decision-making
 
-## Technologies Used
+## 🧠 Technologies Used
 
 - **Python 3.10+**
 - **LangChain**
@@ -22,7 +22,7 @@ AI Blog Search is an Agentic RAG application designed to enhance information ret
 - **Google Gemini API**
 - **Streamlit**
 
-## Setup Instructions
+## 🛠️ Setup Instructions
 
 1. **Create and activate a virtual environment:**
    ```bash
