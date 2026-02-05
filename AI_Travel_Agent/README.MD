@@ -44,7 +44,7 @@ AI_Travel_Agent
 
 ```bash
 git clone https://github.com/Shyamatluri4/AI_Projects.git
-cd AI_PROJECTS/AI TRAVEL AGENT/ai_travel_agent
+cd AI TRAVEL AGENT/travel_agent
 ```
 
 ### 2. Install the required dependencies:
@@ -115,3 +115,9 @@ This allows easy access to your travel plan across devices.
 
 - **travel_agent.py**: Uses OpenAI's GPT-4o for high-quality itineraries (requires OpenAI API key)
 - **local_travel_agent.py**: Uses Ollama for local LLM inference without sending data to external APIs (requires Ollama to be installed and running)
+
+## 📸 Screenshots
+
+### HomePage
+
+<img width="1900" height="860" alt="Image" src="https://github.com/user-attachments/assets/1b1f2f1f-45aa-490b-8fe5-208813e1adfc" />
