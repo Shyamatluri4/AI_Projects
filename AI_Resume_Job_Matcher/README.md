@@ -69,3 +69,9 @@ streamlit run resume_job_matcher/app.py
 
 - If you see a connection error to `localhost:11434`, ensure the Ollama server is running.
 - Make sure you have pulled the required model (e.g., llama3).
+
+## Screenshots
+
+### HomePage
+
+<img width="1900" height="875" alt="Image" src="https://github.com/user-attachments/assets/df5e58a2-0219-48eb-9506-365fd6f4ad4a" />
