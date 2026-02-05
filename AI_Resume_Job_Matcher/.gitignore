@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.envrc
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PDF and text uploads (if any temp files)
+*.pdf
+*.txt
+*.png
+
+# Model files
+*.bin
+*.pt
+*.onnx
+
+# Misc
+resume_job_matcher/__pycache__/
+resume_job_matcher/*.pyc
+resume_job_matcher/*.pyo
+resume_job_matcher/*.pyd
