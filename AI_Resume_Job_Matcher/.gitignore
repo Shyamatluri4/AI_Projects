@@ -28,7 +28,6 @@ Thumbs.db
 
 # PDF and text uploads (if any temp files)
 *.pdf
-*.txt
 *.png
 
 # Model files
