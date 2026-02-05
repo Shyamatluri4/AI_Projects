@@ -4,18 +4,6 @@ An AI-powered application that analyzes **Resumes** and matches them with suitab
 
 This project is a Streamlit web application that matches a resume to a job description using a local Large Language Model (LLM) via Ollama. It provides a fit score, strengths, and improvement suggestions for your resume.
 
----
-
-## 📂 Project Structure
-
-```
-AI_Resume_Job_Matcher
-├─ README.md
-└─ resume_job_matcher
-   └─ app.py
-
-```
-
 ## 🚀 Features
 
 - Upload resume and job description (PDF or TXT)
@@ -69,6 +57,16 @@ streamlit run resume_job_matcher/app.py
 
 - If you see a connection error to `localhost:11434`, ensure the Ollama server is running.
 - Make sure you have pulled the required model (e.g., llama3).
+
+## 📂 Project Structure
+
+```
+AI_Resume_Job_Matcher
+├─ README.md
+└─ resume_job_matcher
+   └─ app.py
+
+```
 
 ## 📸 Screenshots
 
