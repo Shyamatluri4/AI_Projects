@@ -20,6 +20,16 @@ This project is a Streamlit web application that matches a resume to a job descr
 - PyMuPDF (for PDF parsing)
 - Requests (for HTTP API calls to Ollama)
 
+## 📂 Project Structure
+
+```
+AI_Resume_Job_Matcher
+├─ README.md
+└─ resume_job_matcher
+   └─ app.py
+
+```
+
 ## ⚡ Setup Instructions
 
 ### 1. Create and activate a virtual environment:
@@ -57,16 +67,6 @@ streamlit run resume_job_matcher/app.py
 
 - If you see a connection error to `localhost:11434`, ensure the Ollama server is running.
 - Make sure you have pulled the required model (e.g., llama3).
-
-## 📂 Project Structure
-
-```
-AI_Resume_Job_Matcher
-├─ README.md
-└─ resume_job_matcher
-   └─ app.py
-
-```
 
 ## 📸 Screenshots
 

@@ -21,6 +21,17 @@ The system combines **Newspaper4k** and **DuckDuckGo Search** to collect and ana
 - **Market Opportunity Insights** – Highlights potential gaps and business opportunities.
 - **Interactive Streamlit UI** – User-friendly interface for research and exploration.
 
+## 📂 Project Structure
+
+```
+AI_Startup_Trend_Analysis
+├─ ai_startup_trend_analysis_agent
+│  ├─ requirements.txt
+│  └─ startup_trends_agent.py
+└─ README.md
+
+```
+
 ### 🛠️ Getting Started
 
 1. **Clone the repository**:
@@ -60,17 +71,6 @@ The system combines **Newspaper4k** and **DuckDuckGo Search** to collect and ana
 ### Important Note
 
 - The system specifically uses Google's Gemini API for advanced language processing. You can obtain your Google Gemini API key from the Google AI Studio or Google Cloud Console (https://ai.google.dev/)
-
-## 📂 Project Structure
-
-```
-AI_Startup_Trend_Analysis
-├─ ai_startup_trend_analysis_agent
-│  ├─ requirements.txt
-│  └─ startup_trends_agent.py
-└─ README.md
-
-```
 
 ## 📸 Screenshots
 

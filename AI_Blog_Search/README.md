@@ -22,6 +22,17 @@ AI Blog Search is an Agentic RAG application designed to enhance information ret
 - **Google Gemini API**
 - **Streamlit**
 
+## 📂 Project Structure
+
+```
+AI_Blog_Search
+├─ ai_blog_search
+│  ├─ app.py
+│  └─ requirements.txt
+└─ README.md
+
+```
+
 ## 🛠️ Setup Instructions
 
 1. **Create and activate a virtual environment:**
@@ -50,17 +61,6 @@ AI Blog Search is an Agentic RAG application designed to enhance information ret
 - This project uses Google's Gemini API and Qdrant API for advanced language processing and for semantic search. You can obtain these API Keys's from these links provided below.
 - Google Gemini API Key: https://ai.google.dev/
 - Qdrant Cloud API Key: https://cloud.qdrant.io/
-
-## 📂 Project Structure
-
-```
-AI_Blog_Search
-├─ ai_blog_search
-│  ├─ app.py
-│  └─ requirements.txt
-└─ README.md
-
-```
 
 ## 📸 Screenshots
 
