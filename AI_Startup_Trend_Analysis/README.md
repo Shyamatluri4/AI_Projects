@@ -73,3 +73,9 @@ AI_Startup_Trend_Analysis
 ### Important Note
 
 - The system specifically uses Claude's API for advanced language processing. You can obtain your Anthropic API key from [Anthropic's website](https://www.anthropic.com/api).
+
+## 📸 Screenshots
+
+### HomePage
+
+<img width="1888" height="829" alt="Image" src="https://github.com/user-attachments/assets/b0991808-45c8-47a6-bd0b-d0be38c39c1b" />
