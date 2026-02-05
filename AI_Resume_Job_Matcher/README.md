@@ -26,7 +26,8 @@ This project is a Streamlit web application that matches a resume to a job descr
 AI_Resume_Job_Matcher
 ├─ README.md
 └─ resume_job_matcher
-   └─ app.py
+   ├─ app.py
+   └─ requirements.txt
 
 ```
 

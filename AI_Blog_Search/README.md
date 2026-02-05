@@ -26,7 +26,7 @@ AI Blog Search is an Agentic RAG application designed to enhance information ret
 
 ```
 AI_Blog_Search
-├─ ai_blog_search
+├─ ai_blog_search_agent
 │  ├─ app.py
 │  └─ requirements.txt
 └─ README.md
@@ -42,11 +42,11 @@ AI_Blog_Search
    ```
 2. **Install dependencies:**
    ```bash
-   pip install -r ai_blog_search/requirements.txt
+   pip install -r ai_blog_search_agent/requirements.txt
    ```
 3. **Run the application:**
    ```bash
-   streamlit run ai_blog_search/app.py
+   streamlit run ai_blog_search_agent/app.py
    ```
 
 ## 🚀 Usage

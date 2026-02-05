@@ -29,12 +29,11 @@ It automates travel research, planning, and scheduling, helping users quickly cr
 
 ```
 AI_Travel_Agent
-├─ ai_travel_agent
+├─ travel_agent
 │  ├─ local_travel_agent.py
 │  ├─ requirements.txt
 │  └─ travel_agent.py
 ├─ README.MD
-└─ venv
 
 ```
 
