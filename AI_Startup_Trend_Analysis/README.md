@@ -4,17 +4,6 @@ The **AI Startup Trend Analysis Agent** is an intelligent research tool designed
 
 The system combines **Newspaper4k** and **DuckDuckGo Search** to collect and analyze startup-related news articles and market data. It uses **Google-Gemini AI** to extract patterns and produce meaningful trend insights.
 
-## 📂 Project Structure
-
-```
-AI_Startup_Trend_Analysis
-├─ ai_startup_trend_analysis_agent
-│  ├─ requirements.txt
-│  └─ startup_trends_agent.py
-└─ README.md
-
-```
-
 ## ⚙️ Technologies Used
 
 - Python
@@ -71,6 +60,17 @@ AI_Startup_Trend_Analysis
 ### Important Note
 
 - The system specifically uses Google's Gemini API for advanced language processing. You can obtain your Google Gemini API key from the Google AI Studio or Google Cloud Console (https://ai.google.dev/)
+
+## 📂 Project Structure
+
+```
+AI_Startup_Trend_Analysis
+├─ ai_startup_trend_analysis_agent
+│  ├─ requirements.txt
+│  └─ startup_trends_agent.py
+└─ README.md
+
+```
 
 ## 📸 Screenshots
 
